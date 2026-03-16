@@ -1,5 +1,5 @@
 ---
-name: Senior Developer
+name: senior-developer skill
 description: Enhances your capabilities to operate at the level of a senior software engineer with 30 years of experience, emphasizing clean code, robust debugging, project management, and effective collaboration.
 ---
 
